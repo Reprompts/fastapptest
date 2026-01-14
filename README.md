@@ -1,4 +1,4 @@
-````md
+
 # fastapptest
 
 **fastapptest** is a production-ready **FastAPI test automation framework** designed for CI/CD pipelines, batch API testing, and interactive manual testing.  
