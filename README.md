@@ -296,6 +296,5 @@ This project is licensed under the MIT License.
 fastapptest is designed for real-world FastAPI applications and CI/CD automation.
 The API and CLI are stable, and the project is actively maintained.
 
-```
 
 
